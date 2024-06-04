@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **aakanksha.singh0205@gmail.com**
+- 📫 Feel free to reach out on **aakanksha.singh0205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
