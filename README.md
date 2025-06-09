@@ -2,7 +2,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=aakanksha-singh-hub&label=Profile%20views&color=002829&style=for-the-badge&base=200" alt="aakanksha-singh-hub" />
 
-Contact me @ [aakanksha.singh0205@gmail.com](mailto:aakanksha.singh0205@gmail.com)
+I enjoy building clean, simple, and thoughtful software. I care about clarity - in design, in code, and in the way we tell stories with data.
+Whether it’s solving a problem with code or exploring new ideas, I’m always open to learning. Currently, I’m spending most of my time building full-stack apps, diving deeper into AI, and contributing to projects that matter.
+
+If anything here resonates, feel free to reach out - I’d love to connect.
+
+📬 [aakanksha.singh0205@gmail.com](mailto:aakanksha.singh0205@gmail.com)
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aakanksha-singh1/) 
@@ -47,6 +52,4 @@ Contact me @ [aakanksha.singh0205@gmail.com](mailto:aakanksha.singh0205@gmail.co
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aakanksha-singh-hub&theme=transparent&border=EBEBEB&background=00000040&currStreakNum=EBEBEB&fire=EB7D20&sideNums=9AAEEB)](https://git.io/streak-stats)
 
 
-<!---### Playing
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/317cydettvqyldkc76ndq7zpfvfu)
-<br/> --->
+
