@@ -45,7 +45,7 @@ Contact me @ [aakanksha.singh0205@gmail.com](mailto:aakanksha.singh0205@gmail.co
 
 ### GitHub Stats
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aakanksha-singh-hub&theme=transparent&border=EBEBEB&background=00000040&currStreakNum=EBEBEB&fire=EB7D20&sideNums=9AAEEB)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=aakanksha-singh-hub&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
+
 
 <!---### Playing
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/317cydettvqyldkc76ndq7zpfvfu)
