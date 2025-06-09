@@ -51,5 +51,9 @@ If anything here resonates, feel free to reach out - I’d love to connect.
 ### GitHub Stats
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aakanksha-singh-hub&theme=transparent&border=EBEBEB&background=00000040&currStreakNum=EBEBEB&fire=EB7D20&sideNums=9AAEEB)](https://git.io/streak-stats)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aakanksha-singh-hub/aakanksha-singh-hub/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aakanksha-singh-hub/aakanksha-singh-hub/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/aakanksha-singh-hub/aakanksha-singh-hub/blob/output/github-snake.svg" />
+</picture>
 
