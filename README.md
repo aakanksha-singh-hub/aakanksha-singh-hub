@@ -5,7 +5,8 @@
 Contact me @ [aakanksha.singh0205@gmail.com](mailto:aakanksha.singh0205@gmail.com)
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/aditi-singh02](https://www.linkedin.com/in/aakanksha-singh1/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aakanksha.singh0205@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aakanksha-singh1/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aakanksha.singh0205@gmail.com) 
 ###
 [![Codechef](https://img.shields.io/badge/codechef-%23F24E1E.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aakanksha_44) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23ffffff.svg?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/aakanksha_singh) 
