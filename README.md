@@ -1,6 +1,6 @@
-![Banner](https://github.com/user-attachments/assets/a68dfaa7-f63b-4a65-a38f-ab1946bed205)
+![Music Festival (3)](https://github.com/user-attachments/assets/736a0efe-185d-4a18-bc53-7a9fa0a668c2)
 
-<img src="https://komarev.com/ghpvc/?username=aditisingh02&label=Profile%20views&color=002829&style=for-the-badge&base=200" alt="aditisingh02" />
+<img src="https://komarev.com/ghpvc/?username=aakanksha-singh-hub&label=Profile%20views&color=002829&style=for-the-badge&base=200" alt="aakanksha-singh-hub" />
 
 Contact me @ [aakanksha.singh0205@gmail.com](mailto:aakanksha.singh0205@gmail.com)
 
@@ -43,8 +43,8 @@ Contact me @ [aakanksha.singh0205@gmail.com](mailto:aakanksha.singh0205@gmail.co
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### GitHub Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aditisingh02&theme=transparent&border=EBEBEB&background=00000040&currStreakNum=EBEBEB&fire=EB7D20&sideNums=9AAEEB)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=aditisingh02&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aakanksha-singh-hub&theme=transparent&border=EBEBEB&background=00000040&currStreakNum=EBEBEB&fire=EB7D20&sideNums=9AAEEB)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=aakanksha-singh-hub&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
 
 <!---### Playing
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/317cydettvqyldkc76ndq7zpfvfu)
