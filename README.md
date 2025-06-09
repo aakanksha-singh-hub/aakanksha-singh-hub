@@ -48,6 +48,6 @@ If anything here resonates, feel free to reach out - I’d love to connect.
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### GitHub Stats
+## GitHub Stats
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aakanksha-singh-hub&theme=transparent&border=EBEBEB&background=00000040&currStreakNum=EBEBEB&fire=EB7D20&sideNums=9AAEEB)](https://git.io/streak-stats)
 
