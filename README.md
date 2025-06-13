@@ -49,5 +49,5 @@ If anything here resonates, feel free to reach out - I’d love to connect.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## GitHub Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aakanksha-singh-hub&theme=transparent&border=EBEBEB&background=00000040&currStreakNum=EBEBEB&fire=EB7D20&sideNums=9AAEEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aakanksha-singh-hub&theme=modern-lilac2&border_radius=4.6)](https://git.io/streak-stats)
 
